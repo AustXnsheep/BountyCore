@@ -1,0 +1,4 @@
+name: BountyCore
+version: '${project.version}'
+main: git.austxnsheep.bountycore.BountyCore
+api-version: '1.17'
